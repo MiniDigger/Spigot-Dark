@@ -1,3 +1,4 @@
+@-moz-document url-prefix("https://www.spigotmc.org") {
 body {
     background-color: #4E4E4E;
     color: #ffffff;
@@ -118,4 +119,5 @@ a:visited {
 
 .bbCodeSpoilerText{
     color: BLACK;
+}
 }
