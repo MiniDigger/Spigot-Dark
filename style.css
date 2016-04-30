@@ -126,4 +126,20 @@ ul.autoCompleteList li, ul.autoCompleteList li.selected{
 ul.autoCompleteList li:hover, ul.autoCompleteList li.selected{
 	background-color: #AFAFAF;
 }
+
+.resourceListMain,
+.resourceListMain .section,
+.resourceListItem .resourceStats,
+.resourceListItem .resourceImage,
+.resourceListItem {
+ background-color: rgb(140, 140, 140);
+}
+
+.searchResult .meta,
+.innerContent .rateBlock,
+.innerContent .customResourceFields dt,
+.resourceListItem .resourceStats dt,
+.resourceListItem .main .version{
+    color: rgb(74, 74, 74);
+}
 }
