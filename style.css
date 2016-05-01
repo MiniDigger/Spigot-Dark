@@ -142,4 +142,15 @@ ul.autoCompleteList li:hover, ul.autoCompleteList li.selected{
 .resourceListItem .main .version{
     color: rgb(74, 74, 74);
 }
+
+.textWithCount.subHeading .text,
+.dark_postrating_member th,
+.event .content .description,
+.event .content .DateTime {
+        color: rgb(23, 22, 22);
+}
+
+.dark_postrating_positive {
+    color: #81D600;
+}
 }
