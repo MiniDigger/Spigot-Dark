@@ -3,6 +3,9 @@ body {
     background-color: #4E4E4E;
     color: #ffffff;
 }
+strong, b {
+    color: #777676;
+}
 .quickReply,
 .messageList .message {
     background-color: #717171;
@@ -152,5 +155,10 @@ ul.autoCompleteList li:hover, ul.autoCompleteList li.selected{
 
 .dark_postrating_positive {
     color: #81D600;
+}
+
+.memberListItem .extra .bigNumber {
+    font-size: 250%;
+    color: rgb(80, 76, 76);
 }
 }
