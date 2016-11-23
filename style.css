@@ -161,6 +161,10 @@ ul.autoCompleteList li:hover, ul.autoCompleteList li.selected{
     font-size: 250%;
     color: rgb(80, 76, 76);
 }
+.ugc a:link{
+    color: #0056ff;
+}
+
 .signature .bbCodeImage[src$=".gif"] {
 display: none !important;
 }
